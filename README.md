@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Loubna Enakhli</h1>
 <h3 align="center">A passionate fullStack Developer, constantly seeking to learn new things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=looubna&label=Profile%20views&color=0e75b6&style=flat" alt="looubna" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=looubna" alt="looubna" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/lenakhli55447" target="blank"><img src="https://img.shields.io/twitter/follow/lenakhli55447?logo=twitter&style=for-the-badge" alt="lenakhli55447" /></a> </p>
@@ -23,6 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/lenakhli55447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lenakhli55447" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/loubna enakhli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loubna enakhli" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/loubna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="loubna" height="30" width="40" /></a>
 <a href="https://instagram.com/wanderlustgirl_loubna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wanderlustgirl_loubna" height="30" width="40" /></a>
 </p>
 
@@ -34,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=looubna&show_icons=true&locale=en" alt="looubna" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=looubna&" alt="looubna" /></p>
+

@@ -1,4 +1,11 @@
-
+<h2 align="center">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Loubna Enakhli, Full Stack Web Developer :computer:<br>
+  <br>
+    <img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif)" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
 
 <p align="left"> <a href="https://twitter.com/lenakhli55447" target="blank"><img src="https://img.shields.io/twitter/follow/lenakhli55447?logo=twitter&style=for-the-badge" alt="lenakhli55447" /></a> </p>
 

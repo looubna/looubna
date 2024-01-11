@@ -1,10 +1,4 @@
 
-  <abc>
-  <h1 align="center">Hi there!👋 I'm Loubna Enakhli, Full Stack Web Developer,  constantly seeking to learn new things<img src="[https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif](https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif)" width="30"><h1>
-
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
 
 <p align="left"> <a href="https://twitter.com/lenakhli55447" target="blank"><img src="https://img.shields.io/twitter/follow/lenakhli55447?logo=twitter&style=for-the-badge" alt="lenakhli55447" /></a> </p>
 

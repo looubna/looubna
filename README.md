@@ -40,6 +40,108 @@
   <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MrStanDu33&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <p>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Lumen-E74430?style=flat-square&logo=Lumen&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
+  </p>
+</p>
+
+<p>
+  🎶Now playing ...🎶<br/>
+  <a href="http://spotify-informer.daniels-roth-stan.fr/">
+    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
+  </a><br/>
+  <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
+</p>
+
+<img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
+
+
+
+ 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1142 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+🌆 Daytime                11036 commits       ██████████████░░░░░░░░░░░   56.19 % 
+🌃 Evening                6814 commits        █████████░░░░░░░░░░░░░░░░   34.69 % 
+🌙 Night                  650 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   4262 commits        █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+Tuesday                  3826 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Wednesday                3818 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Thursday                 2523 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Friday                   2475 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Saturday                 1646 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Sunday                   1092 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+Other                    2 hrs 36 mins       ████████████░░░░░░░░░░░░░   47.52 % 
+Vue.js                   2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   41.02 % 
+sh                       27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+
+🔥 Editors: 
+Chrome                   2 hrs 34 mins       ████████████░░░░░░░░░░░░░   46.83 % 
+VS Code                  2 hrs 28 mins       ███████████░░░░░░░░░░░░░░   44.84 % 
+Zsh                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+
+💻 Operating System: 
+WSL                      2 hrs 55 mins       █████████████░░░░░░░░░░░░   53.17 % 
+Windows                  2 hrs 34 mins       ████████████░░░░░░░░░░░░░   46.83 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+PHP                      10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+HTML                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+```
+
+
+
+
+ Last Updated on 11/01/2024 00:06:03 UTC
+<!--END_SECTION:waka-->
+</details>
+<p>
+  
   🎶Now playing ...🎶<br/>
   <a href="http://spotify-informer.daniels-roth-stan.fr/">
     <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>

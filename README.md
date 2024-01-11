@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Loubna Enakhli</h1>
-<h3 align="center">A passionate fullStack Developer, constantly seeking to learn new things.</h3>
- <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+
+  <abc>
+  <br align="center">Hi there!👋 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br align="center"> I'm Loubna Enakhli, Full Stack Web Developer,  constantly seeking to learn new things<br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
 
 <p align="left"> <a href="https://twitter.com/lenakhli55447" target="blank"><img src="https://img.shields.io/twitter/follow/lenakhli55447?logo=twitter&style=for-the-badge" alt="lenakhli55447" /></a> </p>
 

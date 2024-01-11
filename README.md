@@ -31,13 +31,7 @@
 
    
 
-<p>
-  🎶Now playing ...🎶<br/>
-  <a href="http://spotify-informer.daniels-roth-stan.fr/">
-    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
-  </a><br/>
-  <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
-</p>
+
 
 <img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
 <br/>
@@ -45,7 +39,7 @@
 <p>
   🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:">mail</a>, ou passez par mon <a href="https://loubna.fr">site</a> !
 </p><br/>
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 <details>
   <summary>Quelques statistiques ...</summary><br/>
